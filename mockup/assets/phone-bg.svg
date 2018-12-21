@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="294px" viewBox="0 0 320 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>phone-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.85178829%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF7673" offset="0%"></stop>
+            <stop stop-color="#FF8274" offset="29.1072074%"></stop>
+            <stop stop-color="#FF8D75" offset="54.5520231%"></stop>
+            <stop stop-color="#FF9879" offset="77.6598627%"></stop>
+            <stop stop-color="#FFA27D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="320" height="294"></rect>
+    </defs>
+    <g id="certificate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile">
+            <g id="phone-bg">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M-17,172 C-141.264069,172 -242,71.711784 -242,-52 C-242,-175.711784 -141.264069,-276 -17,-276 C107.264069,-276 208,-175.711784 208,-52 C208,71.711784 107.264069,172 -17,172 Z M-17,95.4782609 C64.8136105,95.4782609 131.136646,29.4499944 131.136646,-52 C131.136646,-133.449994 64.8136105,-199.478261 -17,-199.478261 C-98.8136105,-199.478261 -165.136646,-133.449994 -165.136646,-52 C-165.136646,29.4499944 -98.8136105,95.4782609 -17,95.4782609 Z" id="Combined-Shape" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                <path d="M205.077218,147.478083 L648.668959,147.478083 L648.668959,590.225405 L205.077218,590.225405 L205.077218,147.478083 Z M281.79906,224.053877 L281.79906,513.64961 L571.947117,513.64961 L571.947117,224.053877 L281.79906,224.053877 Z" id="Combined-Shape" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(426.873089, 368.851744) rotate(-315.000000) translate(-426.873089, -368.851744) "></path>
+                <polygon id="Rectangle" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(231.999660, 81.066034) rotate(-315.000000) translate(-231.999660, -81.066034) " points="-342.730388 -61.2318139 807.001887 -62.3271677 806.729708 223.363882 -343.002567 224.459236"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+:root {
+  --grey-200: #E8E6E1;
+  --grey-900: #423D33;
+  --grey-600: #857F72;
+  --off-white: #FAF9F7;
+  --serif: 'Rozha One', serif;
+  --sans-serif: 'Poppins', sans-serif;
+}
+body {
+  padding: 80px 20px;
+  background-color: var(--grey-200);
+}
+.main {
+  margin: 0 auto;
+  max-width: 1120px;
+  background-color: var(--off-white);
+  display: grid;
+  padding: 32px;
+  grid-template-columns: 230px minmax(32px, 1fr) 465px minmax(64px, 2fr) 54px;
+}
+
+@media screen and (max-width: 970px) {
+  body {
+    padding: 0;
+    background-color: var(--off-white);
+  }
+  .main {
+    padding: 0;
+    display: block;
+  }
+}

@@ -1,0 +1,42 @@
+.aside {
+  background-color: #FF7673;
+  background: linear-gradient(-180deg, #FF7673 3%, #FF8274 31%, #FF8D75 56%, #FF9879 78%, #FFA27D 100%);
+  background-image: url('../resources/images/desktop-bg.jpg');
+  background-size: cover;
+}
+
+.tc__wrapper {
+  padding: 70px 0 40px 0;
+}
+.tc__image {
+  display: block;
+  margin: 0 auto;
+}
+
+.tc__title {
+  padding-bottom: 5px;
+  text-align: center;
+  font-family: var(--sans-serif);
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--off-white);
+}
+
+.tc__subtitle {
+  text-align: center;
+  font-family: var(--sans-serif);
+  font-size: 22px;
+  color: var(--off-white);
+}
+
+@media screen and (max-width: 970px) {
+  .aside {
+    background-image: url('../resources/images/phone-bg.svg');
+    padding: 50px 0;
+  }
+  .tc__wrapper {
+    padding: 0;
+    padding-bottom: 40px;
+  }
+}

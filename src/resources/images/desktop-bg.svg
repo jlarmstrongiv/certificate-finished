@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="796px" viewBox="0 0 229 796" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>desktop-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.85178829%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF7673" offset="0%"></stop>
+            <stop stop-color="#FF8274" offset="29.1072074%"></stop>
+            <stop stop-color="#FF8D75" offset="54.5520231%"></stop>
+            <stop stop-color="#FF9879" offset="77.6598627%"></stop>
+            <stop stop-color="#FFA27D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="229" height="796"></rect>
+    </defs>
+    <g id="certificate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-194.000000, -114.000000)">
+            <g id="desktop-bg" transform="translate(194.000000, 114.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M-14,603 C-102.917845,603 -175,530.917845 -175,442 C-175,353.082155 -102.917845,281 -14,281 C74.9178447,281 147,353.082155 147,442 C147,530.917845 74.9178447,603 -14,603 Z M-14,548 C44.5421835,548 92,500.542183 92,442 C92,383.457817 44.5421835,336 -14,336 C-72.5421835,336 -120,383.457817 -120,442 C-120,500.542183 -72.5421835,548 -14,548 Z" id="Combined-Shape" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                <path d="M145.859956,585.859956 L463.859956,585.859956 L463.859956,903.859956 L145.859956,903.859956 L145.859956,585.859956 Z M200.859956,640.859956 L200.859956,848.859956 L408.859956,848.859956 L408.859956,640.859956 L200.859956,640.859956 Z" id="Combined-Shape" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(304.859956, 744.859956) rotate(-315.000000) translate(-304.859956, -744.859956) "></path>
+                <rect id="Rectangle" fill-opacity="0.25" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(165.159992, 538.159992) rotate(-315.000000) translate(-165.159992, -538.159992) " x="-247.340008" y="435.659992" width="825" height="205"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

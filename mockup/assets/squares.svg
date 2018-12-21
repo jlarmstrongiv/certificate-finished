@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="56px" viewBox="0 0 54 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>squares</title>
+    <desc>Created with Sketch.</desc>
+    <g id="certificate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1196.000000, -112.000000)">
+            <g id="squares" transform="translate(1196.000000, 112.000000)">
+                <rect id="Rectangle" fill="#FF7574" x="13" y="0" width="41" height="41"></rect>
+                <rect id="Rectangle" fill-opacity="0.4" fill="#FFA27E" x="0" y="15" width="41" height="41"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "name": "certificate",
+  "version": "0.0.0",
+  "description": "Intro to Web",
+  "keywords": [
+    "html",
+    "css",
+    "certificate"
+  ],
+  "main": ".",
+  "scripts": {
+    "dev": "node ./browser-sync.js",
+    "upload": "node ./node_modules/surge/lib/cli.js --domain $(node -p \"require('./package.json').name\").surge.sh --project ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/{{user-name}}/{{repo-name}}.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "surge": "^0.20.1"
+  },
+  "dependencies": {}
+}
